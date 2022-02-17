@@ -3,6 +3,21 @@
 - 👀 I’m interested in ... Web Programer Angular React .NET Flutter
 - 🌱 I’m currently learning ... React Advance
 - 📫 How to reach me ... sergio.hidalrorobles@gmail.com
+  
+  
+| Skills | Years of Experience |
+| --- | ----------- |
+| c# | 5 |
+| Javascript | 3 |
+| React | 2 |
+| Angular | 3 |
+| SQL | 5 |
+
+
+
+
+
+
 
 I began to program when I was working as a network manager in a medium organization my work was make backups for the switches there was almost 30 at the beginig I had made one by one when I realized that I could improve the process, I made a batch script for that, and I improved the process.
 
