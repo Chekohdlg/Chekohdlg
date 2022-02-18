@@ -14,12 +14,13 @@
 | Angular | 3 |
 | SQL | 5 |
 
+<div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chekohdlg&show_icons=true&theme=dark)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chekohdlg&show_icons=true&theme=dark)
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chekohdlg)](https://github.com/Chekohdlg/github-readme-stats)
 
-
-
+</div>
 I began to program when I was working as a network manager in a medium organization my work was make backups for the switches there was almost 30 at the beginig I had made one by one when I realized that I could improve the process, I made a batch script for that, and I improved the process.
 
 Then I began to study programing ...
