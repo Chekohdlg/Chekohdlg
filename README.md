@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SergioHidalgorobles
+- 👋 Hi, I’m Sergio Hidalgo
 - I'm a full stack developer ([Angular](https://github.com/angular/angular) , [React](https://github.com/facebook/react) in the front-end , [ASP.NET c#](https://dotnet.microsoft.com/en-us/apps/aspnet) for the back-end and [SQL](https://www.microsoft.com/es-mx/sql-server/sql-server-downloads)  for the database )
 - 👀 I’m interested in ... Web Programer Angular React .NET Flutter
 - 🌱 I’m currently learning ... React Advance
@@ -8,6 +8,7 @@
 | Skills | Years of Experience |
 | --- | ----------- |
 | c# | 5 |
+| xUnit | 1 |
 | Javascript | 3 |
 | React | 2 |
 | Angular | 3 |
