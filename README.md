@@ -1,9 +1,20 @@
-- 👋 Hi, I’m Sergio Hidalgo
-- I'm a full stack developer ([Angular](https://github.com/angular/angular) , [React](https://github.com/facebook/react) in the front-end , [ASP.NET c#](https://dotnet.microsoft.com/en-us/apps/aspnet) for the back-end and [SQL](https://www.microsoft.com/es-mx/sql-server/sql-server-downloads)  for the database )
-- 👀 I’m interested in ... Web Programer Angular React .NET Flutter
-- 🌱 I’m currently learning ... React Advance
-- 📫 How to reach me ... sergio.hidalrorobles@gmail.com
- 
+Hi there! 👋
+
+My name is Sergio Hidalgo, and I'm a self-taught full stack developer with 5 years of experience in software development. 💻 I'm passionate about developing elegant, efficient solutions to complex problems using dot net C# in the backend and Angular/react on the front end, and I'm always looking for new challenges and opportunities to learn and grow. 🚀
+
+What I've Worked On
+
+In my current role as a full stack developer at Unosquare, I have migrated a react application to Angular application. I've made some improvements on the Angular app. I'm constantly learning and keeping up to date with the latest technologies to improve my skills and bring the best possible solutions to my work. In my previous roles as a software developer, I worked on a variety of projects that allowed me to develop my skills in the front end and asp.net, and I always strive to bring my best to any project I'm working on. 💪
+
+What I'm Up To
+
+Outside of work, you can usually find me learning algorithms and python right now. 📚 I believe that a healthy work-life balance is key to success, and I'm always striving to find new ways to achieve it. ⚖️
+
+Contact Me
+
+If you're interested in connecting, feel free to send me a message or connect with me on LinkedIn. I'm always up for a chat! 😊
+
+Thank you for checking out my GitHub! I'm looking forward to collaborating and learning from others in the community. 🤝
 <hr/> 
   
 | Skills | Years of Experience |
